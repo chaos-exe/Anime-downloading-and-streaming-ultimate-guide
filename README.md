@@ -8,6 +8,10 @@
 
 #####    Yes please download Anime for a better viewing experience. Streaming anime is waste of data & quality. :heart:
 
+### :warning:Disclaimer
+
+	This is for educational purposes only!! I do not own anything and do not promote piracy. I highly encourage you to pay for the service, it really helps the industry. I am not responsible for anything you do.
+
 ## Ways to download anime
 
 1. <img align="left" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/New_qBittorrent_Logo.svg/600px-New_qBittorrent_Logo.svg.png"> **Torrent** (1080p/720p) Torrenting is the act of downloading & uploading files through the BitTorrent network. Instead of downloading files to a central server, torrenting involves downloading files from other users' network.
@@ -23,7 +27,7 @@
 
 	So there is not much to it. You just have two options
 
-__legal stream__ :heavy_dollar_sign: (crunchyroll,Netflix,hulu,funimation,aniplex,amazon prime etc.)
+__legal stream__ :heavy_dollar_sign: (Crunchyroll, Netflix, Hulu, Funimation, Aniplex, Amazon Prime etc.)
 
 __Illegal stream__ :shipit: (list of sites are up on 15th,august 2020)
 
