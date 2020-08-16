@@ -19,7 +19,6 @@
 4. <img align="left" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png"> **Telegram** is also an option but I never actually used it so I don't have any knowledge of that. So I will not cover this in here.  
 
 
-
 ## Ways to stream anime :computer:
 
 	So there is not much to it. You just have two options
@@ -37,8 +36,25 @@ __Illegal stream__ :shipit: (list of sites are up on 15th,august 2020)
 		07.https://animefrenzy.net/
 		08.https://www.animebam.se/
 		09.https://watchanime.co/
-		10.(Now fill the list yourself. Streaming services are normally total shit. Not gonna waste my time with this.)
+		10.http://takanimelist.live/
+		11.https://animepahe.com/
+		12.https://twist.moe/
+		13.https://www.animerush.tv/
+		14.https://www.anime-planet.com/
 
+*I think that will be enough atleast one of them will definetly work.*
+
+## :diamond_shape_with_a_dot_inside:Apps to watch anime anime
+
+1. [Ani Mania](https://www.mobi24.net/anime.html)[<sup>Virus Total Scan result</sup>](https://www.virustotal.com/gui/file/6db4ec0e94fda5c19b3dd299f7d7f725f8c7ca630121b90eb9e94798287d009b/detection)
+	
+2. [AnimeDLR](https://www.mediafire.com/file/4z4c888p8r7izzo/animedlr-6-1-3.apk/file)[<sup>Virus Total Scan result</sup>](https://www.virustotal.com/gui/file/18dbbedb472c2998eb7ab38f842be7024bf248c96ade7d314a87149abbbbc4bc/detection)
+
+3. [Kiss Anime](https://www.mediafire.com/file/zsdnnz9lnl3c6dn/Kiss_Anime.apk/file)[<sup>Virus Total Scan result</sup>](https://www.virustotal.com/gui/file/5cc33dc9c8aeeaff0fdc713b9b2fca56f3f15b8c76e44daba3bbac614779bdf3/detection)
+
+4. [Anime Glare](https://animeglare.xyz/index.html)[<sup>Virus Total Scan result</sup>](https://www.virustotal.com/gui/file/7f909db413939f24709c2c1006b8c0cf75f44ab13c1dbbb8d69ac69a8f1e7678/detection)
+
+5. [Anime Prime](https://www.mediafire.com/file/gqlrlzy0cg2t4c1/Anime_Prime.apk/file)[<sup>Virus Total Scan result</sup>](https://www.virustotal.com/gui/file/2fda060e38fbe42a33e1f9a1283d7fb9fc78607acbe44423061978667ea09abf/detection)
 
 
 ## :beginner:How to Download Via Torrent??(on PC/Mobile)
@@ -115,3 +131,4 @@ ALternative sites for Nyaa(15/08/2020)
 6. [AcgnX](https://www.acgnx.se/)
 7. [TokyoTosho](https://www.tokyotosho.info/)
 8. [GGbases](https://www.ggbases.com/)
+
