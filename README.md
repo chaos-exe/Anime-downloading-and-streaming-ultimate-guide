@@ -27,7 +27,7 @@
 
 	So there is not much to it. You just have two options
 
-__legal stream__ :heavy_dollar_sign: (crunchyroll,Netflix,hulu,funimation,aniplex,amazon prime etc.)
+__legal stream__ :heavy_dollar_sign: (Crunchyroll,Netflix,Hulu,Funimation,Aniplex,Amazon Prime etc.)
 
 __Illegal stream__ :shipit: (list of sites are up on 15th,august 2020)
 
@@ -46,7 +46,7 @@ __Illegal stream__ :shipit: (list of sites are up on 15th,august 2020)
 		13.https://www.animerush.tv/
 		14.https://www.anime-planet.com/
 
-*I think that will be enough atleast one of them will definetly work.*
+*I think that will be enough atleast one of them will definitely work.*
 
 ## :diamond_shape_with_a_dot_inside:Apps to watch anime anime
 
@@ -123,9 +123,9 @@ __To enable VPN in Opera:__
 
 ##### Use [ProtonVPN](https://play.google.com/store/apps/details?id=ch.protonvpn.android&hl=en_IN) for watching and accessing the blocked websites. Generally speaking, free VPN services are too good to be true and should be avoided. ProtonVPN however, is an exception to this rule. ProtonVPN offers fast connection with no bandwidth limits and no ads. They are also one of the only free VPN services to open source all their apps.
 
-## :beginner:Freebies
+## :beginner:Freebies & Tips
 
-ALternative sites for Nyaa(15/08/2020)
+:diamond_shape_with_a_dot_inside:**ALternative sites for Nyaa(15/08/2020)**
 
 1. [Nyaa.pantsu.cat](https://nyaa.net/)
 2. [AnimeTosho](https://animetosho.org/)
@@ -136,3 +136,46 @@ ALternative sites for Nyaa(15/08/2020)
 7. [TokyoTosho](https://www.tokyotosho.info/)
 8. [GGbases](https://www.ggbases.com/)
 
+:diamond_shape_with_a_dot_inside:**Best video player to watch H.265 content**
+
+<img width="100" height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Mpv-logo.svg/1200px-Mpv-logo.svg.png">
+
+No, it's not VLC. The best Open-Source Video player is [MPV.](https://mpv.io/) Download it [here](https://drive.google.com/file/d/1UMz7JLbOZZWHFKeh7YDhAHIau2HyhiFN/view?usp=sharing)
+
+**Installation process**
+1. Extract the mpv.zip
+2. Right click on mpv-install.bat and run it as administrator
+3. Command Prompt will open and istall it automatically.
+
+
+:diamond_shape_with_a_dot_inside:**Best encoders on Nyaa**
+
+* [Judas](https://nyaa.si/?f=0&c=0_0&q=judas)
+* [Scyrous](https://nyaa.si/user/Scyrous)
+* [Kaleido](https://nyaa.si/user/Kaleido-subs)
+* [HorribleSubs (not encoder)](https://nyaa.si/user/HorribleSubs)
+* [Erai-raws (not encoder)](https://nyaa.si/user/Erai-raws)
+* [FFF](https://nyaa.si/user/FFF)
+* [MTBB](https://nyaa.si/user/motbob)
+* [Commie](https://nyaa.si/user/Commie)
+* [Beatrice](https://nyaa.si/user/DJATOM)
+* [AnimeRG<sup>Pseudo</sup>](https://nyaa.si/user/pseudo)
+* [Reaktor](https://nyaa.si/user/Reaktor)
+* [animencodes](https://nyaa.si/user/animencodes)
+* [JPSDR](https://nyaa.si/user/jpsdr)
+* [Hakata Ramen](https://nyaa.si/?f=0&c=0_0&q=hakata+ramen+)
+* [bonkai77](https://nyaa.si/?f=0&c=0_0&q=bonkai77)
+* [CBM](https://nyaa.si/?f=0&c=0_0&q=CBM&s=seeders&o=desc)
+* [DmonHiro](https://nyaa.si/user/dmonhiro)
+* [RickyHorror](https://nyaa.si/user/rickyhorror)
+* [Coalgirls](https://nyaa.si/user/Coalgirls)
+* [Underwater](https://nyaa.si/user/Underwater)
+* [xPearse](https://nyaa.si/user/xPearse)
+* [Kametsu](https://nyaa.si/user/Kametsu)
+
+
+**Never download [Moozzi2](https://nyaa.si/user/Moozzi2) for you pixel peepers**
+
+So that's all I guess. Subscribe to my [channel](https://www.youtube.com/channel/UCq3yUOwXi-IGg4nTMNdwdoQ) if this guide helped you in anyway.
+
+# THANK YOU:smiley:
