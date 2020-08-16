@@ -10,7 +10,7 @@
 
 ### :warning:Disclaimer
 
-	This is for educational purposes only!! I do not own anything and do not promote piracy. I highly encourage you to pay for the service, it really helps the industry. I am not responsible for anything you do.
+	This is for educational purposes only!! I do not own any thing and do not promote piracy. I highly encourage you to pay for the service, it really helps the industry. I am not responsible for anything you do.
 
 ## Ways to download anime
 
@@ -27,7 +27,7 @@
 
 	So there is not much to it. You just have two options
 
-__legal stream__ :heavy_dollar_sign: (Crunchyroll, Netflix, Hulu, Funimation, Aniplex, Amazon Prime etc.)
+__legal stream__ :heavy_dollar_sign: (crunchyroll,Netflix,hulu,funimation,aniplex,amazon prime etc.)
 
 __Illegal stream__ :shipit: (list of sites are up on 15th,august 2020)
 
