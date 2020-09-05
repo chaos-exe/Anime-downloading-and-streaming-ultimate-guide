@@ -104,6 +104,28 @@ Watch the video [here](https://www.youtube.com/watch?v=jvdUkZ9WJfs&t=13s) & foll
 
 Use [JDownloader](https://jdownloader.org/download/index) <img width="30" height="30" src="https://jdownloader.org/_media/knowledge/wiki/jdownloader.png?w=150"> to batch download Mega files. It doesn't work with Google Drive links.
 
+## :beginner:How to Download via Telegram(Mobile)
+
+   In **Telegram** <img align="left" width="20" height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png">  app you can download animes from some specific Channels. So, I,[Suman](https://github.com/suman-kun) listed some channels below:point_down:
+
+* [Anime Library](https://t.me/Anime_Library)
+* [Anime_4u_Geng](https://t.me/Anime_4u_Geng)
+* [Anime Movies](https://t.me/AnimeLibrary_Movies)(Only for Movies)
+* [Anime Inc.™](https://t.me/AnimeIncindex)
+* [Animes at One Place!!!](https://t.me/Animes_at_OnePlace)
+* [Anime Request](https://t.me/animereq45)
+* [soulreaperzone](https://t.me/soulreaperzone)
+
+    :black_circle:Website's Telegram channel:point_down: 
+
+* [AnimeKayo](https://t.me/Kayoanime)
+* [Animekaizoku](https://t.me/kaizokuanime)
+* [Ani-DL Encodes](https://t.me/anidlws)
+* [Ani-DL Files Backup](https://t.me/anidlencodes)
+
+
+    Well let me clear you one-thing some of these channels might get deleted later due to copyright issues but don't worry I'll keep updating this list time to time.
+
 
 ## :beginner:How to access blocked sites
 
