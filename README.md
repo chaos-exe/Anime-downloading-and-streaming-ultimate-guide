@@ -119,7 +119,7 @@ Use [JDownloader](https://jdownloader.org/download/index) <img width="30" height
 * [soulreaperzone](https://t.me/soulreaperzone)
 
 
-    :black_circle: Website's Telegram channel:point_down: 
+    :black_circle: Website's Telegram channel
 
 * [Crunchyroll Anime](https://t.me/crunchyroll_anime)
 * [AnimeKayo](https://t.me/Kayoanime)
