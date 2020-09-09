@@ -117,7 +117,7 @@ Watch the video [here](https://www.youtube.com/watch?v=jvdUkZ9WJfs&t=13s) & foll
 
 Use [JDownloader](https://jdownloader.org/download/index) <img width="30" height="30" src="https://jdownloader.org/_media/knowledge/wiki/jdownloader.png?w=150"> to batch download Mega files. It doesn't work with Google Drive links.
 
-## :beginner:How to Download via Telegram(Mobile)
+## :beginner:How to Download via Telegram(PC/Mobile)
 
 In [**Telegram**](https://telegram.org/)  <img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png">   generally some channels provide animes for free.From there you can download any anime as you want.So, I, [Suman](https://github.com/suman-kun) listed some channels below:point_down:
 
