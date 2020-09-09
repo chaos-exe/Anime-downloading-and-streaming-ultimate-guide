@@ -27,7 +27,7 @@
 
 	So there is not much to it. You just have two options
 
-__legal stream__ :heavy_dollar_sign: (Crunchyroll,Netflix,Hulu,Funimation,Aniplex,Amazon Prime etc.)
+__legal stream__ :heavy_dollar_sign: (Crunchyroll, Netflix, Hulu, Funimation, Aniplex, Amazon Prime etc.)
 
 __Illegal stream__ :shipit: (list of sites are up on 15th,august 2020)
 
@@ -106,7 +106,7 @@ Use [JDownloader](https://jdownloader.org/download/index) <img width="30" height
 
 ## :beginner:How to Download via Telegram(Mobile)
 
-   In **Telegram** <img align="left" width="20" height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png">  app you can download animes from some specific Channels. So, I,[Suman](https://github.com/suman-kun) listed some channels below:point_down:
+   In [**Telegram**](https://telegram.org/) <img align="left" width="20" height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png">  generally some channels provide animes for free. So, I, [Suman](https://github.com/suman-kun) listed some channels below:point_down:
 
 * [Anime Library](https://t.me/Anime_Library)
 * [Anime_4u_Geng](https://t.me/Anime_4u_Geng)
@@ -114,10 +114,14 @@ Use [JDownloader](https://jdownloader.org/download/index) <img width="30" height
 * [Anime Inc.™](https://t.me/AnimeIncindex)
 * [Animes at One Place!!!](https://t.me/Animes_at_OnePlace)
 * [Anime Request](https://t.me/animereq45)
+* [Anime Flix](https://t.me/anime_flix_pro)
+* [Anime NHK](https://t.me/AnimeNHK)
 * [soulreaperzone](https://t.me/soulreaperzone)
 
-    :black_circle:Website's Telegram channel:point_down: 
 
+    :black_circle: Website's Telegram channel:point_down: 
+
+* [Crunchyroll Anime](https://t.me/crunchyroll_anime)
 * [AnimeKayo](https://t.me/Kayoanime)
 * [Animekaizoku](https://t.me/kaizokuanime)
 * [Ani-DL Encodes](https://t.me/anidlws)
