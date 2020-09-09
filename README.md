@@ -12,7 +12,7 @@
 
 	This is for educational purposes only!! I do not own any thing and do not promote piracy. I highly encourage you to pay for the service, it really helps the industry. I am not responsible for anything you do.
 
-## Ways to download anime
+## :tv: Ways to download anime
 
 1. <img align="left" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/New_qBittorrent_Logo.svg/600px-New_qBittorrent_Logo.svg.png"> **Torrent** (1080p/720p) Torrenting is the act of downloading & uploading files through the BitTorrent network. Instead of downloading files to a central server, torrenting involves downloading files from other users' network.
 
@@ -23,7 +23,7 @@
 4. <img align="left" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png"> [**Telegram**](https://telegram.org/) is a cloud-based instant messaging, file sharing, videotelephony and voice over IP service.Many Telegram channels use it as anime sharing platform as it has file sharing feature with up to 2 Gigabytes per file.
 
 
-## Ways to stream anime :computer:
+## :tv: Ways to stream anime :computer:
 
 	So there is not much to it. You just have two options
 
@@ -67,14 +67,15 @@ __Illegal stream__ :shipit: (list of sites are up on 9th September,2020)
 
 5. [Anime Prime](https://www.mediafire.com/file/gqlrlzy0cg2t4c1/Anime_Prime.apk/file)[<sup>Virus Total Scan result</sup>](https://www.virustotal.com/gui/file/2fda060e38fbe42a33e1f9a1283d7fb9fc78607acbe44423061978667ea09abf/detection)
 
-6. **Anime Amaze**  <a href="https://play.google.com/store/apps/details?id=com.iridiumgames.animeapp&hl=en"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg"/></a>
+6. **Anime Amaze**  <a href="https://play.google.com/store/apps/details?id=com.iridiumgames.animeapp&hl=en"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg"/></a>
 
-7. **Anime Action** <a href="https://play.google.com/store/apps/details?id=com.activagames.aniwork&hl=en"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg"/></a>
+7. **Anime Action** <a href="https://play.google.com/store/apps/details?id=com.activagames.aniwork&hl=en"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg"/></a>
 
 ## :beginner:How to Download Via Torrent??(on PC/Mobile)
-
 :heavy_check_mark: You need a torrent client: 
+
 :small_blue_diamond: [qBittorrent](https://www.qbittorrent.org/download.php)(recommended for PC)
+
 :small_blue_diamond: [BitTorrent®](https://play.google.com/store/apps/details?id=com.bittorrent.client&hl=en)(recommended for Android)
 
 :heavy_minus_sign: After that there are two ways 
@@ -118,7 +119,7 @@ Use [JDownloader](https://jdownloader.org/download/index) <img width="30" height
 
 ## :beginner:How to Download via Telegram(Mobile)
 
-   In [**Telegram**](https://telegram.org/) <img align="left" width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png">  generally some channels provide animes for free.From there you can download any anime as you want.So, I, [Suman](https://github.com/suman-kun) listed some channels below:point_down:
+In [**Telegram**](https://telegram.org/)  <img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png">   generally some channels provide animes for free.From there you can download any anime as you want.So, I, [Suman](https://github.com/suman-kun) listed some channels below:point_down:
 
 * [Anime Library](https://t.me/Anime_Library)
 * [Anime_4u_Geng](https://t.me/Anime_4u_Geng)
@@ -132,7 +133,7 @@ Use [JDownloader](https://jdownloader.org/download/index) <img width="30" height
 * [soulreaperzone](https://t.me/soulreaperzone)
 
 
-    :black_circle: Website's Telegram channel
+    :black_circle: Website's Telegram channel:point_down:
 
 * [Crunchyroll Anime](https://t.me/crunchyroll_anime)
 * [AnimeKayo](https://t.me/Kayoanime)
