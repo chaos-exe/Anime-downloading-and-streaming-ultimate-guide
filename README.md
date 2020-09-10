@@ -20,31 +20,38 @@
 
 3. <img align="left" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Google_Drive_logo.png/600px-Google_Drive_logo.png"> **Gdrive & Mega links** (1080p/720p/480p) Some websites like Animekaizoku provides Mega and Google Drive links for anime.
 
-4. <img align="left" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png"> **Telegram** is also an option but I never actually used it so I don't have any knowledge of that. So I will not cover this in here.  
-
+4. <img align="left" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png"> **Telegram** is a cloud-based instant messaging, file sharing, videotelephony and voice over IP service. Many Telegram channels use it as anime sharing platform as it has file sharing feature with up to 2 Gigabytes per file.
 
 ## Ways to stream anime :computer:
 
 	So there is not much to it. You just have two options
 
-__legal stream__ :heavy_dollar_sign: (Crunchyroll,Netflix,Hulu,Funimation,Aniplex,Amazon Prime etc.)
+__legal stream__ :heavy_dollar_sign: 
+
+* [Crunchyroll](https://www.crunchyroll.com/welcome)
+* [Hulu](https://www.hulu.com/hub/anime)
+* [Netflix](https://www.netflix.com/in/browse/genre/7424)
+* [Funimation](https://www.funimation.com/)
+
 
 __Illegal stream__ :shipit: (list of sites are up on 15th,august 2020)
 
-		01.https://animeheaven.ru/
-		02.http://www.chia-anime.me/
-		03.https://www1.animeultima.to/
-		04.https://www.animefreak.tv/
-		05.https://www.masterani.one/
-		06.https://kissanime.site/(That was a surprise)
-		07.https://animefrenzy.net/
-		08.https://www.animebam.se/
-		09.https://watchanime.co/
-		10.http://takanimelist.live/
-		11.https://animepahe.com/
-		12.https://twist.moe/
-		13.https://www.animerush.tv/
-		14.https://www.anime-planet.com/
+	01.https://animeheaven.ru/
+	02.http://www.chia-anime.me/
+	03.https://www1.animeultima.to/
+	04.https://www.animefreak.tv/
+	05.https://www.masterani.one/
+	06.https://kissanime.site/(That was a surprise)
+	07.https://animefrenzy.net/
+	08.https://www.animebam.se/
+	09.https://watchanime.co/
+	10.http://takanimelist.live/
+	11.https://animepahe.com/
+	12.https://twist.moe/
+	13.https://www.animerush.tv/
+	14.https://www.anime-planet.com/
+	15.https://animevibe.tv/
+	16.https://deadtoonsindia.net/ (Hindi Dubbed)
 
 *I think that will be enough atleast one of them will definitely work.*
 
@@ -60,10 +67,18 @@ __Illegal stream__ :shipit: (list of sites are up on 15th,august 2020)
 
 5. [Anime Prime](https://www.mediafire.com/file/gqlrlzy0cg2t4c1/Anime_Prime.apk/file)[<sup>Virus Total Scan result</sup>](https://www.virustotal.com/gui/file/2fda060e38fbe42a33e1f9a1283d7fb9fc78607acbe44423061978667ea09abf/detection)
 
+6. [Anime Amaze](https://play.google.com/store/apps/details?id=com.iridiumgames.animeapp&hl=en) <a href="https://play.google.com/store/apps/details?id=com.iridiumgames.animeapp&hl=en"> <img height="25" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg"/></a>
+
+7. [Anime Action](https://play.google.com/store/apps/details?id=com.activagames.aniwork&hl=en) <a href="https://play.google.com/store/apps/details?id=com.activagames.aniwork&hl=en"> <img height="25" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg"/></a>
+
 
 ## :beginner:How to Download Via Torrent??(on PC/Mobile)
 
-:heavy_check_mark: You need a torrent client ([qBittorrent](https://www.qbittorrent.org/download.php) recommended)
+:heavy_check_mark: You need a torrent client 
+
+:small_blue_diamond: [qBittorrent](https://www.qbittorrent.org/download.php)(recommended for Windows/ MacOS/ Linux)
+
+:small_blue_diamond: [BitTorrent®](https://play.google.com/store/apps/details?id=com.bittorrent.client&hl=en)(recommended for Android)
 
 :heavy_minus_sign: After that there are two ways 
 
@@ -103,6 +118,33 @@ Watch the video [here](https://www.youtube.com/watch?v=jvdUkZ9WJfs&t=13s) & foll
 ### :ghost:Tip
 
 Use [JDownloader](https://jdownloader.org/download/index) <img width="30" height="30" src="https://jdownloader.org/_media/knowledge/wiki/jdownloader.png?w=150"> to batch download Mega files. It doesn't work with Google Drive links.
+
+## :beginner:How to Download via Telegram(PC/Mobile)
+
+In **Telegram** <img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png">     generally some channels provide animes for free. From there you can download any anime as you want. 
+
+* [Anime Library](https://t.me/Anime_Library)
+* [Anime 4u Geng](https://t.me/Anime_4u_Geng)
+* [Anime Movies](https://t.me/AnimeLibrary_Movies)(Only for Movies)
+* [Anime Inc™](https://t.me/AnimeIncindex)
+* [Animes at One Place!!!](https://t.me/Animes_at_OnePlace)
+* [Anime Request](https://t.me/animereq45)
+* [Anime Flix](https://t.me/anime_flix_pro)
+* [Anime NHK](https://t.me/AnimeNHK)
+* [One Piece English Dub](https://t.me/OnePieceEnglishDub)(Only for One Piece)
+* [Soulreaperzone](https://t.me/soulreaperzone)
+
+
+##### :black_circle: Website's Telegram channel:point_down:
+
+* [CrunchyrSoll Anime](https://t.me/crunchyroll_anime)
+* [AnimeKayo](https://t.me/Kayoanime)
+* [Animekaizoku](https://t.me/kaizokuanime)
+* [Ani-DL Encodes](https://t.me/anidlws)
+* [Ani-DL Files Backup](https://t.me/anidlencodes)
+
+		Well let me clear you one-thing some of these channels might get deleted later due to copyright issues 
+		but don't worry I'll keep updating this list time to time.
 
 
 ## :beginner:How to access blocked sites
@@ -178,4 +220,9 @@ No, it's not VLC. The best Open-Source Video player is [MPV.](https://mpv.io/) D
 
 So that's all I guess. Subscribe to my [channel](https://www.youtube.com/channel/UCq3yUOwXi-IGg4nTMNdwdoQ) if this guide helped you in anyway.
 
+## :diamond_shape_with_a_dot_inside: Contributors
+
+[Suman ](https://github.com/suman-kun)
+
 # THANK YOU:smiley:
+
